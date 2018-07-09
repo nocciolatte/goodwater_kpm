@@ -136,7 +136,6 @@ class ADaysLeaderboard(DailyLeaderboard):
 
 if __name__ == "__main__":
 
-
     d = AppData("sample_data.csv")
     print(d.df)
 
